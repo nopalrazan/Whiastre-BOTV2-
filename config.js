@@ -70,9 +70,8 @@ global.nameown1= 'Naufal'
 
 
 //⎝ MEDIA SOSSIAL ⎞ 
-global.sig = 'https://instagram.com/leviatnansyah?igshid=YmMyMTA2M2Y='
-global.sgh = 'https://github.com/victorbot22' //github
-global.sgc = 'https://chat.whatsapp.com/JkdB3gSCwCRGgOdCRfkAt1' //tiktok
+global . sig        =        'https://instagram.com/heisinopal'
+
 
 //⎝ DONASI ⎞ ┈
 global.pdana = '08977221819'
